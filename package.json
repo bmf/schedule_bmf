@@ -1,0 +1,19 @@
+{
+  "name": "schedule_bmf",
+  "version": "1.0.0",
+  "description": "Posts Scheduled tweets to my twitter account",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "schedule",
+    "twitter",
+    "post"
+  ],
+  "author": "brandon.flade@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.4.0"
+  }
+}
