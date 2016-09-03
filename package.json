@@ -14,6 +14,8 @@
   "author": "brandon.flade@gmail.com",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.14.1",
+    "request": "^2.74.0",
     "twitter": "^1.4.0"
   }
 }
